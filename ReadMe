@@ -1,0 +1,6 @@
+Flask Dashboard Boilerplate is a simple Flask application that uses a clean and modern code-base enhanced with some basic features:
+
+SQLite Database / PostgreSQL , SQLAlchemy ORM
+Modular structure via blueprints
+Session-based authentication flow (login, register)
+Password hashing via Passlib
